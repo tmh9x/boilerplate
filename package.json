@@ -7,6 +7,10 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "prettier": "2.2.1",
     "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "jshint": "^2.12.0"
   }
 }
