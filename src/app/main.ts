@@ -1,6 +1,6 @@
-import "./style.css";
+import './style.css';
 
-const app = document.querySelector("#app");
+const app = document.querySelector('#app');
 if (app !== null) {
   app.innerHTML = `
   <h1>Hello Vite!</h1>
